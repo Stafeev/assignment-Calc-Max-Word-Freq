@@ -118,8 +118,3 @@ class Solution
   #* print the values of objects in highest_count_words_across_lines in the specified format
 end
 
-instance = Solution.new
-instance.analyze_file
-instance.calculate_line_with_highest_frequency
-instance.print_highest_word_frequency_across_lines
-
